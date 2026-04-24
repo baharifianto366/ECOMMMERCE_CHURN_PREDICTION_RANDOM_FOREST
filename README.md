@@ -1,0 +1,2 @@
+# ECOMMMERCE_CHURN_PREDICTION_RANDOM_FOREST
+Analisis Prediksi Customer Churn menggunakan algoritma Random Forest
